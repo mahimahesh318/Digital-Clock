@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+}
+
+#container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#clock{
+  font-size: 70px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: antiquewhite;
+  padding: 10px 20px;
+}
